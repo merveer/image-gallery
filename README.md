@@ -1,4 +1,4 @@
-# image-galelry
+# image-gallery
 
 In this project you will see how to make an image gallery with flex panels
 
